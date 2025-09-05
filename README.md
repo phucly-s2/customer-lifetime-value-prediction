@@ -2,6 +2,7 @@
 Predict CLV based on RFM model
 
 Source: https://www.analyticsvidhya.com/blog/2020/10/a-definitive-guide-for-predicting-customer-lifetime-value-clv/
+
 Improvement:
 - The source is for the retail and the script is adapted for the Home-Try-On business model
 - Looping to give the predicted value for the next months during a 12-month period
