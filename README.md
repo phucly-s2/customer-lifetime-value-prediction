@@ -23,5 +23,5 @@ Data used:
 
 Default model result:
 - over-predict -> Errors lie mostly in: Customer predicted purchase churns (false positive)
-- Compare the test and actual CLV 12 months after enrollment of past cohort data to get the delta
-- For the delta to be under 5%, adjust the weight to be between 10% and 25%. In this script, we take the average of the predicted value when the weight is 25% (conservative) and 10% (aggressive)
+- Compare the test and actual CLV 6,9 and 12 months after enrollment of past cohorts data to get the delta
+- For the delta to be under 5%, weight adjusted is between 10% and 25%. In this script, we take the average of the predicted value when the weight is 25% (conservative) and 10% (aggressive)
